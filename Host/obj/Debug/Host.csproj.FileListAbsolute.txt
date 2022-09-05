@@ -1,0 +1,9 @@
+C:\Users\pkumar\source\repos\Lab1\Host\bin\Debug\Host.dll
+C:\Users\pkumar\source\repos\Lab1\Host\bin\Debug\Host.pdb
+C:\Users\pkumar\source\repos\Lab1\Host\bin\Debug\DataBaseConnection.dll
+C:\Users\pkumar\source\repos\Lab1\Host\bin\Debug\DataBaseConnection.pdb
+C:\Users\pkumar\source\repos\Lab1\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\pkumar\source\repos\Lab1\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\pkumar\source\repos\Lab1\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\pkumar\source\repos\Lab1\Host\obj\Debug\Host.dll
+C:\Users\pkumar\source\repos\Lab1\Host\obj\Debug\Host.pdb
